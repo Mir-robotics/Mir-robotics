@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me
+### 🦾 About Me
 
 I'm a Robotics PhD student with a background in Mechanical Engineering, working toward a career as a research scientist. My work sits at the intersection of **control theory**, **dynamical systems**, and **AI-driven approaches** to robotics — combining classical engineering foundations with modern machine learning methods.
 
