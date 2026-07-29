@@ -13,7 +13,7 @@
 
 I'm a Robotics PhD student with a background in Mechanical Engineering, working toward a career as a research scientist. My work sits at the intersection of **control theory**, **dynamical systems**, and **AI-driven approaches** to robotics — combining classical engineering foundations with modern machine learning methods.
 
-I completed my Master's degree in [Your Field] and am currently starting my PhD on a [funded scholarship / fellowship — add detail if you'd like it public].
+I completed my Master's degree in Robotics and Artificial Intelligence and am currently starting my PhD.
 
 ---
 
@@ -22,8 +22,8 @@ I completed my Master's degree in [Your Field] and am currently starting my PhD 
 - Adaptive & robust control for robotic systems
 - Dynamics and state estimation
 - Reinforcement learning and AI methods for control
-- Human-robot interaction *(edit/remove as needed)*
-- Simulation-to-real transfer *(edit/remove as needed)*
+- Human-robot interaction
+- Simulation-to-real transfer
 
 ---
 
