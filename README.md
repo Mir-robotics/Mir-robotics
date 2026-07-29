@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohadeseh Mir — but most people know me as Raha 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Robotics PhD Student · Aspiring Research Scientist</h3>
 
 <p align="center">
