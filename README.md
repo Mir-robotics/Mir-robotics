@@ -38,7 +38,6 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-> *Remove or add badges above to match the tools you actually use regularly.*
 
 ---
 
