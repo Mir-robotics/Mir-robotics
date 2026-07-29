@@ -41,6 +41,7 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 
 ---
 
+
 ### 📌 Featured Projects
 
 | Project | Description |
@@ -48,6 +49,32 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 | [Project Name](#) | One-line description of what it does and why it matters |
 | [Project Name](#) | One-line description of what it does and why it matters |
 | [Project Name](#) | One-line description of what it does and why it matters |
+
+---
+
+### 🎥 Demos & Simulations
+
+Video demos of control algorithms, robotic simulations, and AI experiments — posted on my [YouTube channel](https://www.youtube.com/@Mir-robotics).
+
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" width="280" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="280" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" width="280" />
+  </a>
+</p>
+
+| Video | Description |
+|---|---|
+| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+
+<!-- Replace VIDEO_ID_1 / VIDEO_ID_2 / VIDEO_ID_3 with your actual YouTube video IDs (the part after "v=" in the video URL), and update the links/descriptions in the table. -->
 
 ---
 
@@ -71,7 +98,7 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Mir-robotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
