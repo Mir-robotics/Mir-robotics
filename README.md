@@ -57,14 +57,10 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 Video demos of control algorithms, robotic simulations, and AI experiments — posted on my [YouTube channel](https://www.youtube.com/@Mir-robotics).
 
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1](https://youtube.com/shorts/gyOKlvq-LHQ?si=AxLz_KaIVgFBFR-y">
-    <results/vlcsnap-2026-07-30-08h17m20s508.png />
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="280" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" width="280" />
+  <a href="https://youtube.com/shorts/gyOKlvq-LHQ" target="_blank">
+    <img src="results/vlcsnap-2026-07-30-08h17m20s508.png"
+         alt="Robot Manipulator Demo"
+         width="500">
   </a>
 </p>
 
