@@ -59,7 +59,7 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
 <p align="left">
   <a href="https://youtube.com/shorts/gyOKlvq-LHQ" target="_blank">
     <img src="results/vlcsnap-2026-07-30-08h17m20s508.png"
-         alt="Robot Manipulator Demo"
+         alt="Robot Swarm Leader Follower Demo"
          width="500">
   </a>
 
@@ -77,7 +77,7 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
 
 | Video | Description |
 |---|---|
-| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+| [Robot Swarm Leader Follower](#) | Simulating a Robot Swarm From Scratch — Leader-Follower Formation, Obstacle Avoidance in MuJoCo |
 | [Demo title](#) | One-line description of the simulation / what it demonstrates |
 | [Demo title](#) | One-line description of the simulation / what it demonstrates |
 
