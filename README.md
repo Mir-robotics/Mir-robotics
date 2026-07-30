@@ -58,7 +58,7 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_1](https://youtube.com/shorts/gyOKlvq-LHQ?si=AxLz_KaIVgFBFR-y">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" width="280" />
+    <results/vlcsnap-2026-07-30-08h17m20s508.png />
   </a>
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
     <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="280" />
