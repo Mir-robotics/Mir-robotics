@@ -63,8 +63,8 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
          width="500">
   </a>
 
-  <a href="https://youtube.com/shorts/gyOKlvq-LHQ" target="_blank">
-    <img src="results/vlcsnap-2026-07-30-08h17m20s508.png"
+  <a href="https://youtube.com/shorts/..." target="_blank">
+    <img src="results/..."
          alt="Robot Manipulator Demo"
          width="500">
   </a>
