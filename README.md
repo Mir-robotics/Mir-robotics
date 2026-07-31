@@ -46,9 +46,9 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 
 | Project | Description |
 |---|---|
-| [Project Name](#) | One-line description of what it does and why it matters |
-| [Project Name](#) | One-line description of what it does and why it matters |
-| [Project Name](#) | One-line description of what it does and why it matters |
+| [Robot Swarm Leader Follower](#) | Simulating a Robot Swarm From Scratch — Leader-Follower Formation, Obstacle Avoidance in MuJoCo |
+| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+| [Demo title](#) | One-line description of the simulation / what it demonstrates |
 
 ---
 
@@ -72,11 +72,8 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
   </a>
 </p>
 
-| Video | Description |
-|---|---|
-| [Robot Swarm Leader Follower](#) | Simulating a Robot Swarm From Scratch — Leader-Follower Formation, Obstacle Avoidance in MuJoCo |
-| [Demo title](#) | One-line description of the simulation / what it demonstrates |
-| [Demo title](#) | One-line description of the simulation / what it demonstrates |
+
+
 
 <!-- Replace VIDEO_ID_1 / VIDEO_ID_2 / VIDEO_ID_3 with your actual YouTube video IDs (the part after "v=" in the video URL), and update the links/descriptions in the table. -->
 
