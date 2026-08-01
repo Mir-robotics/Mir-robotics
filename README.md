@@ -90,9 +90,13 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mir-robotics&show_icons=true&theme=default&hide_title=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mir-robotics" height="165"/>
-  [![Raha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mir-robotics&theme=github-compact)](https://github.com/Mir-robotics)
 </p>
 
+<p align="center">
+  <a href="https://github.com/Mir-robotics">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mir-robotics&theme=github-compact" width="100%"/>
+  </a>
+</p>
 ---
 
 ### 🔗 Connect With Me
