@@ -87,9 +87,12 @@ Video demos of control algorithms, robotic simulations, and AI experiments — p
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="center"> 
+
   <img src="https://github-readme-stats.vercel.app/api?username=Mir-robotics&show_icons=true&theme=default&hide_title=true" height="165"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mir-robotics" height="165"/>
+
 </p>
 ---
 
