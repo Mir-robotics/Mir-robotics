@@ -41,56 +41,9 @@ I completed my Master's degree in Robotics and Artificial Intelligence and am cu
 
 ---
 
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Robot Swarm Leader Follower](#) | Simulating a Robot Swarm From Scratch — Leader-Follower Formation, Obstacle Avoidance in MuJoCo |
-| [Demo title](#) | One-line description of the simulation / what it demonstrates |
-| [Demo title](#) | One-line description of the simulation / what it demonstrates |
-
----
-
-### 🎥 Demos & Simulations
-
-Video demos of control algorithms, robotic simulations, and AI experiments — posted on my [YouTube channel](https://www.youtube.com/@Mir-robotics).
-
-<p align="left">
-  <a href="https://youtube.com/shorts/gyOKlvq-LHQ" target="_blank">
-    <img src="results/vlcsnap-2026-07-30-08h17m20s508.png"
-         alt="Robot Swarm Leader Follower Demo"
-         width="500">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1](https://youtube.com/shorts/gyOKlvq-LHQ?si=AxLz_KaIVgFBFR-y">
-    <results/vlcsnap-2026-07-30-08h17m20s508.png />
-  </a>
-      
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1](https://youtube.com/shorts/gyOKlvq-LHQ?si=AxLz_KaIVgFBFR-y">
-    <results/vlcsnap-2026-07-30-08h17m20s508.png />
-  </a>
-</p>
-
-
-
-
-<!-- Replace VIDEO_ID_1 / VIDEO_ID_2 / VIDEO_ID_3 with your actual YouTube video IDs (the part after "v=" in the video URL), and update the links/descriptions in the table. -->
-
----
-
 ### 📄 Publications
 
 - *Coming soon — will be updated as papers are published.*
-
----
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mir-robotics&show_icons=true&theme=default&hide_title=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Mir-robotics&hide_total_contributions=true" height="165"/>
-</p>
 
 ---
 
